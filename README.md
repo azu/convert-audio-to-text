@@ -10,7 +10,7 @@ Install with [npm](https://www.npmjs.com/):
 
 ## Usage
 
-- [ ] Write usage instructions
+    CHROME_PATH=/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ./bin/convert-audio-to-text.js ./debug/input.wav
 
 ## Changelog
 
