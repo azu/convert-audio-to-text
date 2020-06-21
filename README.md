@@ -10,6 +10,8 @@ Install with [npm](https://www.npmjs.com/):
 
 ## Usage
 
+Prepare: set [BlackHome](https://github.com/ExistentialAudio/BlackHole) to input/output of Audio.
+
     CHROME_PATH=/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ./bin/convert-audio-to-text.js ./debug/input.wav
 
 ## Changelog
