@@ -56,7 +56,7 @@ export const convertAudioToText = async (options: convertAudioToTextOptions) => 
 
     // load one file
     console.log("audioFilePath", audioFilePath);
-    // TODO: should use another player
+    // TODO: should use another player play-sound
     const audio = player.play(audioFilePath, function (err: any) {
         if (err && !err.killed) throw err;
     });

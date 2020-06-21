@@ -16,8 +16,8 @@ Prepare: set [BlackHole](https://github.com/ExistentialAudio/BlackHole) to input
 
 ## Auto Receipt[TODO]
 
-- [ ] Set BlackHole to input/output of Audio [JXA](https://github.com/JXA-userland/JXA)
-- [ ] Use stable audio player
+- [ ] Set BlackHole to input/output of Audio via [JXA](https://github.com/JXA-userland/JXA)
+- [ ] Use stable audio player instead of 
 - [ ] Detect end of audio, but playing continuous
 - [ ] Add position to log `HH:MM:SS: ~`
 
