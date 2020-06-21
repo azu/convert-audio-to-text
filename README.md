@@ -10,9 +10,16 @@ Install with [npm](https://www.npmjs.com/):
 
 ## Usage
 
-Prepare: set [BlackHome](https://github.com/ExistentialAudio/BlackHole) to input/output of Audio.
+Prepare: set [BlackHole](https://github.com/ExistentialAudio/BlackHole) to input/output of Audio.
 
     CHROME_PATH=/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome ./bin/convert-audio-to-text.js ./debug/input.wav
+
+## Auto Receipt[TODO]
+
+- [ ] Set BlackHole to input/output of Audio [JXA](https://github.com/JXA-userland/JXA)
+- [ ] Use stable audio player
+- [ ] Detect end of audio, but playing continuous
+- [ ] Add position to log `HH:MM:SS: ~`
 
 ## Changelog
 
